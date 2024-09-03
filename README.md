@@ -1,14 +1,13 @@
-# Tour and Travel Landing Page UI
+SkillCraft internship Assignment - 01
 
-### Demo
-* [Codepen](https://codepen.io/mustafadalga/pen/WNxMNoN) 
-* [Github Pages](https://mustafadalga.github.io/tour-and-travel/)
+Overview This project is a responsive landing page (Tour and Travel) built using HTML, CSS, and JavaScript. The primary focus of this project is to create a visually appealing and functional landing page that is responsive across various devices and screen sizes.
 
+Features Responsive Design: Ensures compatibility across different devices using media queries.
 
-### Used technologies
- * HTML5  
- * SCSS - CSS3
- * Pure JavaScript
+Modern Layout: Utilizes CSS Flexbox for a flexible and adaptive layout.
 
-#### Resource Figma Design
- * https://uigarage.net/ui-kit/tour-and-travel-website-for-figma-2/
+Interactive Elements: Includes interactive elements enhanced with JavaScript.
+
+Clean and Organized Code: Follows best practices for HTML, CSS, and JavaScript.
+
+Technologies Used HTML: Structure of the landing page. CSS: Styling, with a focus on Flexbox for layout. JavaScript: Adds interactivity through DOM manipulation

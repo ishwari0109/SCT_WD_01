@@ -168,8 +168,7 @@ document.addEventListener('click',(e)=>{
 /* Testimonials */
 var previous=document.querySelector('#arrow-previous');
 var next=document.querySelector('#arrow-next');
-var testimonial_list=document.querySelectorAll('.testimonial-item');
-var active=document.querySelector('.testimonial-item.active');
+
 var index=0;
 
 function toggleArrowPassive(){
